@@ -2,9 +2,9 @@
 	"name": "bugpop",
 	"title": "Bugpop",
 	"description": "Automatically make journals and actors visible in sidebar when GM shows players.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"minimumCoreVersion": "0.5.5",
-	"compatibleCoreVersion": "0.6.2",
+	"compatibleCoreVersion": "9",
 	"author": "Arietta",
 
 	"scripts": [],
@@ -12,13 +12,13 @@
 
 	"languages": [
 		{
-		  "lang": "en",
-		  "name": "English",
-		  "path": "lang/en.json"
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
 		}
-	  ],
-	
+	],
+
 	"url": "https://github.com/hanhmchau/bugpop",
 	"manifest": "https://raw.githubusercontent.com/hanhmchau/bugpop/master/module.json",
-	"download": "https://github.com/hanhmchau/bugpop/archive/v0.0.2.zip"
+	"download": "https://github.com/hanhmchau/bugpop/archive/v0.0.3.zip"
 }
